@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://images.weserv.nl/?url=github.com/guilhermecdev.png&h=200&w=200&fit=cover&mask=circle&maxage=7d" width="150" />
-
 📍 Fortaleza, CE &nbsp;•&nbsp; 🚀 Aberto a novas oportunidades!
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermecardozo262@gmail.com)
