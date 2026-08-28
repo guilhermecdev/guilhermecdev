@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://portfolio-guilherme-swart.vercel.app/assets/foto-perfil.jpg" width="100%"/>
+<img src="https://portfolio-guilherme-swart.vercel.app/assets/foto-perfil.jpg" width="10%"/>
 
 📍 Fortaleza, CE &nbsp;•&nbsp; 🚀 Aberto a novas oportunidades!
 
