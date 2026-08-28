@@ -1,16 +1,76 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**guilhermecdev/guilhermecdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:388bfd,100:a371f7&height=180&section=header&text=Guilherme%20Cardozo&fontSize=42&fontColor=ffffff&desc=Analista%20de%20Dados%20J%C3%BAnior%20%7C%20Estudante%20de%20Data%20Analytics%20%26%20IA&descSize=16&descAlignY=62" width="100%"/>
 
-Here are some ideas to get you started:
+📍 Fortaleza, CE &nbsp;•&nbsp; 🚀 Aberto a novas oportunidades!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermecardozo262@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilhermecardozodev)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-238636?style=for-the-badge&logo=vercel&logoColor=white)](https://guilhermecardozodev.netlify.app)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guilhermecdev)
+
+</div>
+
+<br>
+
+## 🙋‍♂️ Sobre mim
+
+- 🔎 Em transição de carreira para **Análise de Dados**
+- 🎓 Cursando **Data Analytics & IA** — Digital College Brasil
+- 🎓 Cursando **Ciência de Dados** — Universidade Cruzeiro do Sul
+- 🎓 Cursando **Engenharia de Software** — Universidade Estácio de Sá
+- 📊 Foco atual: **SQL**, **Power BI** e **Python (Pandas/NumPy)**
+- 💼 Status: aberto a oportunidades como **Analista de Dados Júnior** / estágio
+
+<br>
+
+## 🧰 Tecnologias e ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,python,html,css&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+</div>
+
+<br>
+
+## 📜 Certificações
+
+- ✅ Residência em TIC-20 — Ciência de Dados (Universidade Estadual do Ceará)
+- ✅ SQL para Análise de Dados (Infinity Big Data & DataClub)
+- ✅ Formação Microsoft Power BI Profissional (Udemy & Santander Open Academy)
+- ✅ Competências Digitais Essenciais e IA — 84h (Universidade Cruzeiro do Sul)
+- ✅ Copilot na Prática (M. Dias Branco / Universidade Corporativa)
+- ✅ Curso de Excel Completo (Danki Code)
+
+<br>
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=guilhermecdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermecdev&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+## 📌 Projetos em destaque
+
+- 🔗 **[Portfólio pessoal](https://guilhermecardozodev.netlify.app)** — meus projetos de dados e desenvolvimento
+
+<br>
+
+<div align="center">
+
+⭐️ De **[guilhermecdev](https://github.com/guilhermecdev)**
+
+</div>
