@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:388bfd,100:a371f7&height=180&section=header&text=Guilherme%20Cardozo&fontSize=42&fontColor=ffffff&desc=Analista%20de%20Dados%20J%C3%BAnior%20%7C%20Estudante%20de%20Data%20Analytics%20%26%20IA&descSize=16&descAlignY=62](https://portfolio-guilherme-swart.vercel.app/assets/foto-perfil.jpg)" width="100%"/>
+<img src="https://portfolio-guilherme-swart.vercel.app/assets/foto-perfil.jpg" width="100%"/>
 
 📍 Fortaleza, CE &nbsp;•&nbsp; 🚀 Aberto a novas oportunidades!
 
